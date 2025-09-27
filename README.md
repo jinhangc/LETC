@@ -18,5 +18,5 @@ $D_t=x_t^T {\alpha}^\star+p_t({x}_t^T {\beta}^\star)+\epsilon_t$
 The regret is defined as
 $\mathcal{R}(T):=\sum_{t=1}^T p^\star(x_t)\left(x_t^T {\alpha}^\star+p^\star(x_t){x}_t^T {\beta}^\star\right)- p_t\left(x_t^T {\alpha}^\star+p_t{x}_t^T {\beta}^\star\right)$
 
-Our paper achieves first **dimension-free** and also **minimax-optimal** regret rate.
+Our paper achieves the first *dimension-free* and also *minimax-optimal* regret rate.
 
